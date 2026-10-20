@@ -1,0 +1,9 @@
+Package: com.kindmops.standriseesp
+Name: StandRise ESP
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: ESP overlay for StandRise Rework
+Maintainer: kindmops
+Author: kindmops
+Section: Tweaks
+Depends: mobilesubstrate
